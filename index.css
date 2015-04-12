@@ -1,0 +1,82 @@
+
+.red {
+  
+ 
+transition:All 0.7229s ease-in;
+-webkit-transition:All 0.7229s ease-in;
+
+transform: rotate(360deg) scale(1) skew(1deg) translate(-83px);
+-webkit-transform: rotate(360deg) scale(1) skew(1deg) translate(-83px);
+
+}
+.red:hover{
+transform: rotate(16deg) scale(0.881) skew(-4deg) translate(162px);
+-webkit-transform: rotate(16deg) scale(0.881) skew(-4deg) translate(162px);
+-moz-transform: rotate(16deg) scale(0.881) skew(-4deg) translate(162px);
+-o-transform: rotate(16deg) scale(0.881) skew(-4deg) translate(162px);
+-ms-transform: rotate(16deg) scale(0.881) skew(-4deg) translate(162px);
+}
+
+/*.yellow {
+
+  
+transition:All 0.7229s ease-in;
+-webkit-transition:All 0.7229s ease-in;
+-moz-transition:All 0.7229s ease-in;
+-o-transition:All 0.7229s ease-in;
+transform: rotate(360deg) scale(1) skew(1deg) translate(-83px);
+-webkit-transform: rotate(360deg) scale(1) skew(1deg) translate(-83px);
+-moz-transform: rotate(360deg) scale(1) skew(1deg) translate(-83px);
+-o-transform: rotate(360deg) scale(1) skew(1deg) translate(-83px);
+-ms-transform: rotate(360deg) scale(1) skew(1deg) translate(-83px);
+}
+.yellow:hover{
+transform: rotate(359deg) scale(0.236) skew(-10deg) translate(216px);
+-webkit-transform: rotate(359deg) scale(0.236) skew(-10deg) translate(216px);
+-moz-transform: rotate(359deg) scale(0.236) skew(-10deg) translate(216px);
+-o-transform: rotate(359deg) scale(0.236) skew(-10deg) translate(216px);
+-ms-transform: rotate(359deg) scale(0.236) skew(-10deg) translate(216px);
+}
+*/
+.green {
+ 
+transition:All 0.7229s ease-in;
+-webkit-transition:All 0.7229s ease-in;
+-moz-transition:All 0.7229s ease-in;
+-o-transition:All 0.7229s ease-in;
+transform: rotate(360deg) scale(1) skew(1deg) translate(-83px);
+-webkit-transform: rotate(360deg) scale(1) skew(1deg) translate(-83px);
+-moz-transform: rotate(360deg) scale(1) skew(1deg) translate(-83px);
+-o-transform: rotate(360deg) scale(1) skew(1deg) translate(-83px);
+-ms-transform: rotate(360deg) scale(1) skew(1deg) translate(-83px);
+}
+.green:hover{
+transform: rotate(359deg) scale(0.872) skew(137deg) translate(216px);
+-webkit-transform: rotate(359deg) scale(0.872) skew(137deg) translate(216px);
+-moz-transform: rotate(359deg) scale(0.872) skew(137deg) translate(216px);
+-o-transform: rotate(359deg) scale(0.872) skew(137deg) translate(216px);
+-ms-transform: rotate(359deg) scale(0.872) skew(137deg) translate(216px);
+}
+
+
+
+
+.multi {
+ 
+transition:All 1s ease;
+-webkit-transition:All 1s ease;
+-moz-transition:All 1s ease;
+-o-transition:All 1s ease;
+transform: rotate(4deg) scale(1) skew(1deg) translate(10px);
+-webkit-transform: rotate(4deg) scale(1) skew(1deg) translate(10px);
+-moz-transform: rotate(4deg) scale(1) skew(1deg) translate(10px);
+-o-transform: rotate(4deg) scale(1) skew(1deg) translate(10px);
+-ms-transform: rotate(4deg) scale(1) skew(1deg) translate(10px);
+}
+.multi:hover{
+transform: rotate(4deg) scale(1.457) skew(1deg) translate(0px);
+-webkit-transform: rotate(4deg) scale(1.457) skew(1deg) translate(0px);
+-moz-transform: rotate(4deg) scale(1.457) skew(1deg) translate(0px);
+-o-transform: rotate(4deg) scale(1.457) skew(1deg) translate(0px);
+-ms-transform: rotate(4deg) scale(1.457) skew(1deg) translate(0px);
+}
